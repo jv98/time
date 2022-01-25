@@ -3,7 +3,7 @@ const timarEl = document.getElementById("hours");
 const minuterEl = document.getElementById("min");
 const sekunderEl = document.getElementById("seconds");
 
-const datetime = "1 Jan 2022";
+const datetime = "1 Jan 2023;
 
 function countdown() {
     const tiemdate = new Date (datetime);
